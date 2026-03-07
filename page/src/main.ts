@@ -4,6 +4,6 @@ import './index.css'
 
 const app = createApp(App)
 
-app.use(createPinia())
+app.use()
 
 app.mount('#app')
