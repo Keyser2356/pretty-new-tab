@@ -222,7 +222,7 @@ onMounted(() => {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 8rem;
+  font-size: 4rem;
   font-weight: bold;
   letter-spacing: 10px;
 }
@@ -233,8 +233,8 @@ onMounted(() => {
 }
 
 .date {
-  font-size: 1.8rem;
-  margin-top: 1rem;
+  font-size: 1rem;
+  margin-top: 0.5rem;
   text-transform: uppercase;
   letter-spacing: 4px;
 }
@@ -243,8 +243,8 @@ onMounted(() => {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  width: 7.5rem;
-  height: 8rem;
+  width: 4rem;
+  height: 4rem;
   position: relative;
 }
 .digit-stack {
