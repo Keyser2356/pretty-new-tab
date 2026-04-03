@@ -9,6 +9,12 @@
     "newtab": "pages/index.html"
   },
   "options_page": "pages/settings.html",
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "action": {},
   "permissions": [
     "storage"
   ],
